@@ -8,4 +8,5 @@
 2. ##### Clase de analítica de datos 
 3. ###### Aprendiendo Markdown
 4. Cónoce de nuestros eventos [*Universidad Externado de Colombia*](https://www.uexternado.edu.co/)
-5. Visita nuestra hermosa universidad ![*Campus Universitario*](https://www.uexternado.edu.co/wp-content/uploads/2024/03/foto-1-9.jpg)
+   
+6. Visita nuestra hermosa universidad ![*Campus Universitario*](https://www.uexternado.edu.co/wp-content/uploads/2024/03/foto-1-9.jpg)
